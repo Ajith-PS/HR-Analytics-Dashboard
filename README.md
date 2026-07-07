@@ -45,4 +45,9 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 - Data Visualization
 
 ## Author
-Ajith P S
+**Ajith P S**
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/Ajith-PS
+LinkedIn: https://www.linkedin.com/in/your-profile
