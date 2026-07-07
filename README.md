@@ -28,6 +28,15 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 
 ![HR Analytics Dashboard](Dashboard.png)
 
+## Key Insights
+
+- Overall Attrition Rate: 16.3%
+- Total Employees: 1,417
+- Active Employees: 1,186
+- Sales department has the highest attrition.
+- Employees with lower experience show higher attrition.
+- Most employees belong to the 26–35 age group.
+
 ## Dataset
 - HR_Analytics-4.csv
 
